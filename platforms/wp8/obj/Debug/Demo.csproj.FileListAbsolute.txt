@@ -1,0 +1,14 @@
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\Bin\Debug\Background.png
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\Bin\Debug\com.oeverproductions.demo.dll
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\Bin\Debug\com.oeverproductions.demo.pdb
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\Bin\Debug\com.oeverproductions.demo.xap
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\obj\Debug\App.g.cs
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\obj\Debug\com.oeverproductions.demo.g.resources
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\obj\Debug\com.oeverproductions.demo.dll
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\obj\Debug\com.oeverproductions.demo.pdb
+C:\P\BitBucket\PhoneGapDay\demo\platforms\wp8\obj\Debug\XapCacheFile.xml

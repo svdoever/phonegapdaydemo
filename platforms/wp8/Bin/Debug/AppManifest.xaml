@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="com.oeverproductions.demo" EntryPointType="com.oeverproductions.demo.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="com.oeverproductions.demo" Source="com.oeverproductions.demo.dll" />
+  </Deployment.Parts>
+</Deployment>
